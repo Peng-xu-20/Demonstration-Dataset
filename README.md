@@ -9,6 +9,11 @@ The mathematical steps of the above-mentioned method are expressed in pseudo cod
 
 The graphical explanation of this method is shown in Fig. 3. The collected original video data is used as the total input of the decision mechanism. Through the improved YOLOv7 model and SORT algorithm, the trajectory video and coordinate data can be obtained respectively. The trajectory video is used as the input of the trajectory processing algorithm, and the cross aggregation level can be obtained after calculation. The coordinate data is used as the input of the speed processing algorithm, and the overall swimming speed of the fish school can be obtained after calculation. The hunger level of fish school is classified according to the cross aggregation level, and the overall swimming speed of fish school is used as an auxiliary judgment condition to finally obtain the hunger level of fish school. On the basis of Decision Mechanism, the design of aquaculture consumer electronics products driven by image understanding can be realized.
 
-![data-set](https://github.com/ALAN-SOFT/Intelligent-breeding-demonstration-data-set/assets/44634241/d9863ebb-843f-4389-8933-0caf8206d0c4)
-
+![data-set](https://github.com/ALAN-SOFT/Intelligent-breeding-demonstration-data-set/assets/44634241/9e5912ec-444a-4459-b7b3-f650d17bc756)
+![data-set](https://github.com/ALAN-SOFT/Intelligent-breeding-demonstration-data-set/assets/44634241/3b763514-eee8-492a-a2a3-c102d333bbb4)
 ![data-set](https://github.com/ALAN-SOFT/Intelligent-breeding-demonstration-data-set/assets/44634241/f3fe8e6e-6ed3-4123-bdf3-ec6c3f2079c6)
+
+![train](https://github.com/ALAN-SOFT/Intelligent-breeding-demonstration-data-set/assets/44634241/be3d2fd2-1223-45c1-8812-f62c9dc7d956)
+![train](https://github.com/ALAN-SOFT/Intelligent-breeding-demonstration-data-set/assets/44634241/fc278ef3-1a5c-4a3b-a92b-7d21bc947cb5)
+
+

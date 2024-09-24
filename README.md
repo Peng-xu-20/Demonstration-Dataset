@@ -9,7 +9,7 @@ dataset
        	--train  （training set label file ending in .txt）
         --val			（test set label file ending in .txt）
        	--val			（validation set label file ending in .txt）
-![Dataset](https://github.com/user-attachments/assets/ca935348-15dc-4e14-9e17-760f38178971)
+![Dataset](https://github.com/user-attachments/assets/fa38d286-eef0-4495-acf4-f0fa5eda63d1)
 
 ### Partial screenshot of the dataset
 ![Dataset](https://github.com/user-attachments/assets/1f6fa525-41ff-4ddb-98bc-8c88e58260dd)
